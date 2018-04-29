@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+# A list of my shared codes
 
 You can use the [editor on GitHub](https://github.com/dixy0/dixy0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Codes for Di and Biswal (2017)
+Some codes for simulation of the correlations of PPI (psychophysiological interaction) between two different ways of calculations.
+And codes for calculating coefficient of variation using Bland and Altman's method (Bland and Altman, 1996).
+[Project](https://github.com/dixy0/PPI_correlation_demo)
+```
+Di X and Biswal BB (2017) Psychophysiological Interactions in a Visual Checkerboard Task: Reproducibility, Reliability, and the Effects of Deconvolution. Front. Neurosci. 11:573. doi: 10.3389/fnins.2017.00573
+```
+
 
 ### Markdown
 

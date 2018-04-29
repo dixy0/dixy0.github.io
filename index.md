@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/dixy0/dixy0.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Codes for Di and Biswal (2017)
+# Codes for Di and Biswal (2017)
 Some codes for simulation of the correlations of PPI (psychophysiological interaction) between two different ways of calculations.
 And codes for calculating coefficient of variation using Bland and Altman's method (Bland and Altman, 1996).
 [Project](https://github.com/dixy0/PPI_correlation_demo)
